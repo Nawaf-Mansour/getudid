@@ -1,0 +1,33 @@
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+<key>PayloadContent</key>
+<dict>
+<key>URL</key>
+<!-- ضع مكان الاكس رابط موقع او مسار الملفات-->
+  <string>https://xxxxxxxx/processes_data.php</string>
+<key>DeviceAttributes</key>
+<array>
+<string>UDID</string>
+<string>IMEI</string>
+<string>ICCID</string>
+<string>VERSION</string>
+<string>PRODUCT</string>
+</array>
+</dict>
+<key>PayloadOrganization</key>
+<string>موقع نواف منصور</string>
+<key>PayloadDisplayName</key>
+<string>لمعرفة رقم udid لجهازك</string>
+<key>PayloadVersion</key>
+<integer>1</integer>
+<key>PayloadUUID</key>
+<string>74xx5abc-99x9-4x3z-cvfa-999xxxx1d44c8</string>
+<key>PayloadIdentifier</key>
+<string>co.sdk.udid</string>
+<key>PayloadDescription</key>
+<string>قم بتثبيت ملف التعريف لاستخراج UDID الخاص بجهازك</string>
+<key>PayloadType</key>
+<string>Profile Service</string>
+</dict>
+</plist>
